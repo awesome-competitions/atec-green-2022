@@ -1,3 +1,4 @@
 ```shell
-docker build  
+make docker
+docker run energy /home/admin/atec_project/app
 ```
